@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on a new life
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning something
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with university
-- 💬 Ask me about nothing (please)
-- 📫 How to reach me: knock on my door
-- 😄 Pronouns: Riccardo
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: My name is Riccardo
